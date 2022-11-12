@@ -1,1 +1,2 @@
-Triqui en Java como proyecto universitario
+Triqui en Java como proyecto universitario, necesaria base de datos en Postgres
+En el código están las diferentes claves y datos necesarios para crear la tabla en la DB.
